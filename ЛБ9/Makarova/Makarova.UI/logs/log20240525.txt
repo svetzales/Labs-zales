@@ -1,0 +1,2 @@
+2024-05-25 14:28:13.935 +03:00 [INF] Hello из метода Index контроллера Home!
+2024-05-25 14:45:44.492 +03:00 [INF] -- Request /Identity/Account/Logout returns302

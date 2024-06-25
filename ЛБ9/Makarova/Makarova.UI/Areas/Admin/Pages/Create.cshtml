@@ -1,0 +1,59 @@
+﻿@page
+@model Yeroma.UI.Areas.Admin.Pages.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Создать</h1>
+
+<h4>Букет</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Flower.Name" class="control-label">Название</label>
+                <input asp-for="Flower.Name" class="form-control" />
+                <span asp-validation-for="Flower.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Flower.Description" class="control-label">Описание</label>
+                <input asp-for="Flower.Description" class="form-control" />
+                <span asp-validation-for="Flower.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Flower.Price" class="control-label">Цена</label>
+                <input asp-for="Flower.Price" class="form-control" />
+                <span asp-validation-for="Flower.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Flower.Image" class="control-label">Изображение</label>
+                <input asp-for="Flower.Image" class="form-control" />
+                <span asp-validation-for="Flower.Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Flower.CategoryId" class="control-label">Категория</label>
+                <select asp-for="Flower.CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Image" class="form-label">Изображение</label>
+                <input asp-for="Image" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Создать" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZXu1kfREr5qeWC+zF+ZBidrVqF1mghMTJ51J++Nz+re/hQ5Z4YHlMNSHsscGl9tPFoFFwaonKoBm8SVnAJiPQ==",
+  "success": false,
+  "projectFilePath": "E:\\УЧЕБА\\ВТ\\ЛБ9\\Makarova\\Makarova.Tests\\Makarova.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"E:\\УЧЕБА\\ВТ\\ЛБ9\\Makarova\\Yeroma.API\\Yeroma.API.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "E:\\УЧЕБА\\ВТ\\ЛБ9\\Makarova\\Yeroma.API\\Yeroma.API.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"E:\\УЧЕБА\\ВТ\\ЛБ9\\Makarova\\Yeroma.UI\\Yeroma.UI.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "E:\\УЧЕБА\\ВТ\\ЛБ9\\Makarova\\Yeroma.UI\\Yeroma.UI.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

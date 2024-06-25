@@ -1,0 +1,28 @@
+﻿@page "/products"
+@rendermode InteractiveServer
+@using Flowers.Domain.Entities
+@using Flowers.Domain.Models
+@using Yeroma.Blazor.Components.ProductComponents
+@using Yeroma.Blazor.Services
+
+<CascadingValue Value="ProductService">
+    <FlowersList FlowersSelected="ShowDetails" />
+    <Pager />
+</CascadingValue>
+<FlowersDetails Flower="SelectedFlowers" />
+
+@code {
+
+    [Inject] IProductService<Flower> ProductService { get; set; }
+
+    [Parameter]
+    public Flower SelectedFlowers { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        await ProductService.GetFlowers();
+    }
+    void ShowDetails(int id)
+    {
+        SelectedFlowers = ProductService.Products.First(d => d.Id == id);
+    }
+}

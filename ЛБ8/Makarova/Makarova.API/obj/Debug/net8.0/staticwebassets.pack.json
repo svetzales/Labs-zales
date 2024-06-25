@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Ариадна.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Ариадна.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Гигея.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Гигея.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Калипсо.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Калипсо.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Клио.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Клио.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Мнемосина.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Мнемосина.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Нюкта.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Нюкта.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Терпсихора.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Терпсихора.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Эрида.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Эрида.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\корзина\\Эринии.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\корзина\\Эринии.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Гестия.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Гестия.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Гея.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Гея.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Дриада.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Дриада.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Мельпомена.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Мельпомена.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Немезида.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Немезида.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Ника.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Ника.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Психея.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Психея.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Селена.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Селена.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\коробка\\Юнона.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\коробка\\Юнона.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Артемида.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Артемида.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Афина.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Афина.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Афродита.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Афродита.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Геката.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Геката.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Гера.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Гера.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Деметра.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Деметра.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Муза.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Муза.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Персефена.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Персефена.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ8\\Yeroma\\Yeroma.API\\wwwroot\\Images\\цветы\\упаковка\\Фемида.jpg",
+      "PackagePath": "staticwebassets\\Images\\цветы\\упаковка\\Фемида.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Yeroma.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Yeroma.API.props",
+      "PackagePath": "build\\Yeroma.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Yeroma.API.props",
+      "PackagePath": "buildMultiTargeting\\Yeroma.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Yeroma.API.props",
+      "PackagePath": "buildTransitive\\Yeroma.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

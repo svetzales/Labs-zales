@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Yeroma.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Yeroma.UI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\default-profile-picture.png",
+      "PackagePath": "staticwebassets\\images\\default-profile-picture.png"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Ариадна.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Ариадна.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Гигея.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Гигея.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Калипсо.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Калипсо.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Клио.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Клио.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Мнемосина.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Мнемосина.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Нюкта.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Нюкта.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Терпсихора.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Терпсихора.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Эрида.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Эрида.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\корзина\\Эринии.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\корзина\\Эринии.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Гестия.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Гестия.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Гея.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Гея.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Дриада.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Дриада.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Мельпомена.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Мельпомена.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Немезида.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Немезида.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Ника.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Ника.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Психея.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Психея.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Селена.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Селена.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\коробка\\Юнона.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\коробка\\Юнона.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Артемида.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Артемида.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Афина.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Афина.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Афродита.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Афродита.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Геката.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Геката.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Гера.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Гера.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Деметра.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Деметра.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Муза.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Муза.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Персефена.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Персефена.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\images\\цветы\\упаковка\\Фемида.jpg",
+      "PackagePath": "staticwebassets\\images\\цветы\\упаковка\\Фемида.jpg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ5\\Yeroma\\Yeroma.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Yeroma.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Yeroma.UI.props",
+      "PackagePath": "build\\Yeroma.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Yeroma.UI.props",
+      "PackagePath": "buildMultiTargeting\\Yeroma.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Yeroma.UI.props",
+      "PackagePath": "buildTransitive\\Yeroma.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+2024-05-28 17:25:02.557 +03:00 [INF] -- Request /Cart/add/1 returns302
+2024-05-28 17:27:47.804 +03:00 [INF] -- Request /Cart/add/1 returns302
+2024-05-28 17:29:48.108 +03:00 [INF] -- Request /Cart/add/1 returns302
+2024-05-28 17:34:31.733 +03:00 [INF] -- Request /Identity/Account/Login returns302
+2024-05-28 17:34:41.292 +03:00 [INF] -- Request /Cart/add/1 returns302
+2024-05-28 17:35:35.234 +03:00 [INF] -- Request /Identity/Account/Logout returns302
+2024-05-28 17:35:40.231 +03:00 [INF] -- Request /Cart/add/1 returns302

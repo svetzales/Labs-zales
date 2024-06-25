@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ9\\Yeroma\\Yeroma.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Yeroma.Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Yeroma.Blazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ9\\Yeroma\\Yeroma.Blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ9\\Yeroma\\Yeroma.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ9\\Yeroma\\Yeroma.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ИИТ БГУиР\\4 семестр\\Веб\\ЛБ9\\Yeroma\\Yeroma.Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Yeroma.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Yeroma.Blazor.props",
+      "PackagePath": "build\\Yeroma.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Yeroma.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\Yeroma.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Yeroma.Blazor.props",
+      "PackagePath": "buildTransitive\\Yeroma.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

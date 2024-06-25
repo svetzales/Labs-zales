@@ -1,0 +1,11 @@
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\bin\Debug\net8.0\Flower.Domain.deps.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\bin\Debug\net8.0\Flower.Domain.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\bin\Debug\net8.0\Flower.Domain.pdb
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\Flower.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\Flower.Domain.AssemblyInfoInputs.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\Flower.Domain.AssemblyInfo.cs
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\Flower.Domain.csproj.CoreCompileInputs.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\Flower.Domain.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\refint\Flower.Domain.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\Flower.Domain.pdb
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ4\Yeroma\Yeroma_Flowers.Domain\obj\Debug\net8.0\ref\Flower.Domain.dll

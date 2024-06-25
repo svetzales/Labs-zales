@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE131E5-8672-4FF8-BB20-81453281C1C3}|Yeroma.API\\Yeroma.API.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.api\\controllers\\flowers1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE131E5-8672-4FF8-BB20-81453281C1C3}|Yeroma.API\\Yeroma.API.csproj|solutionrelative:yeroma.api\\controllers\\flowers1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE131E5-8672-4FF8-BB20-81453281C1C3}|Yeroma.API\\Yeroma.API.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE131E5-8672-4FF8-BB20-81453281C1C3}|Yeroma.API\\Yeroma.API.csproj|solutionrelative:yeroma.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE131E5-8672-4FF8-BB20-81453281C1C3}|Yeroma.API\\Yeroma.API.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE131E5-8672-4FF8-BB20-81453281C1C3}|Yeroma.API\\Yeroma.API.csproj|solutionrelative:yeroma.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\areas\\admin\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\areas\\admin\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}|Yeroma_Flowers.Domain\\Flowers.Domain.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma_flowers.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}|Yeroma_Flowers.Domain\\Flowers.Domain.csproj|solutionrelative:yeroma_flowers.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}|Yeroma_Flowers.Domain\\Flowers.Domain.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma_flowers.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}|Yeroma_Flowers.Domain\\Flowers.Domain.csproj|solutionrelative:yeroma_flowers.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\taghelpers\\pagertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\taghelpers\\pagertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\services\\productservice\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\services\\productservice\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\views\\product\\_productitempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\views\\product\\_productitempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.ui\\areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\areas\\admin\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\components\\productcomponents\\flowersdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\components\\productcomponents\\flowersdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\components\\productcomponents\\flowerslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\components\\productcomponents\\flowerslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\services\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\services\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\components\\productcomponents\\pager.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\components\\productcomponents\\pager.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04319\\yeroma\\yeroma.blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}|Yeroma.Blazor\\Yeroma.Blazor.csproj|solutionrelative:yeroma.blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Yeroma.UI\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:52:04.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Yeroma.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Yeroma.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:51:24.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Yeroma.UI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:48:57.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flowers1Controller.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.API\\Controllers\\Flowers1Controller.cs",
+              "RelativeDocumentMoniker": "Yeroma.API\\Controllers\\Flowers1Controller.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.API\\Controllers\\Flowers1Controller.cs",
+              "RelativeToolTip": "Yeroma.API\\Controllers\\Flowers1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:34:27.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.API\\Program.cs",
+              "RelativeDocumentMoniker": "Yeroma.API\\Program.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.API\\Program.cs",
+              "RelativeToolTip": "Yeroma.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:45:53.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Areas\\Admin\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:15:18.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductListModel.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma_Flowers.Domain\\Models\\ProductListModel.cs",
+              "RelativeDocumentMoniker": "Yeroma_Flowers.Domain\\Models\\ProductListModel.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma_Flowers.Domain\\Models\\ProductListModel.cs",
+              "RelativeToolTip": "Yeroma_Flowers.Domain\\Models\\ProductListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:18:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma_Flowers.Domain\\Models\\ResponseData.cs",
+              "RelativeDocumentMoniker": "Yeroma_Flowers.Domain\\Models\\ResponseData.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma_Flowers.Domain\\Models\\ResponseData.cs",
+              "RelativeToolTip": "Yeroma_Flowers.Domain\\Models\\ResponseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:18:16.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemoryProductService.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeToolTip": "Yeroma.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "ViewState": "AQIAADcBAAAAAAAAAAAIwD0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:52:29.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ProductItemPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Views\\Product\\_ProductItemPartial.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Views\\Product\\_ProductItemPartial.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Views\\Product\\_ProductItemPartial.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Views\\Product\\_ProductItemPartial.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:23:35.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagerTagHelper.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\TagHelpers\\PagerTagHelper.cs",
+              "RelativeDocumentMoniker": "Yeroma.UI\\TagHelpers\\PagerTagHelper.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\TagHelpers\\PagerTagHelper.cs",
+              "RelativeToolTip": "Yeroma.UI\\TagHelpers\\PagerTagHelper.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwE8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:18:48.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:17:13.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "Yeroma.UI\\Services\\ProductService\\IProductService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:22:56.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\appsettings.json",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\appsettings.json",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\appsettings.json",
+              "RelativeToolTip": "Yeroma.Blazor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T21:59:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiProductService.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Services\\ProductService\\ApiProductService.cs",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Services\\ProductService\\ApiProductService.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Services\\ProductService\\ApiProductService.cs",
+              "RelativeToolTip": "Yeroma.UI\\Services\\ProductService\\ApiProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:51:57.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Components\\_Imports.razor",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "Yeroma.Blazor\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:59:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Areas\\Admin\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Areas\\Admin\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.UI\\Areas\\Admin\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Areas\\Admin\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:59:02.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlowersDetails.razor",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\ProductComponents\\FlowersDetails.razor",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Components\\ProductComponents\\FlowersDetails.razor",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\ProductComponents\\FlowersDetails.razor",
+              "RelativeToolTip": "Yeroma.Blazor\\Components\\ProductComponents\\FlowersDetails.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T20:58:53.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FlowersList.razor",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\ProductComponents\\FlowersList.razor",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Components\\ProductComponents\\FlowersList.razor",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\ProductComponents\\FlowersList.razor",
+              "RelativeToolTip": "Yeroma.Blazor\\Components\\ProductComponents\\FlowersList.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T20:45:34.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Program.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Program.cs",
+              "RelativeToolTip": "Yeroma.Blazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:41:39.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApiProductService.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Services\\ApiProductService.cs",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Services\\ApiProductService.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Services\\ApiProductService.cs",
+              "RelativeToolTip": "Yeroma.Blazor\\Services\\ApiProductService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:38:27.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Products.razor",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Components\\Pages\\Products.razor",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\Pages\\Products.razor",
+              "RelativeToolTip": "Yeroma.Blazor\\Components\\Pages\\Products.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T20:34:02.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pager.razor",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\ProductComponents\\Pager.razor",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Components\\ProductComponents\\Pager.razor",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\ProductComponents\\Pager.razor",
+              "RelativeToolTip": "Yeroma.Blazor\\Components\\ProductComponents\\Pager.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:01:25.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Yeroma.Blazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04119\\Yeroma\\Yeroma.Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Yeroma.Blazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:17:04.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

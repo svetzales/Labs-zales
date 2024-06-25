@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yeroma.UI", "Yeroma.UI\Yeroma.UI.csproj", "{B0A540EA-8F46-4540-B724-11BA5A295F97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flowers.Domain", "Yeroma_Flowers.Domain\Flowers.Domain.csproj", "{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yeroma.API", "Yeroma.API\Yeroma.API.csproj", "{0DE131E5-8672-4FF8-BB20-81453281C1C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yeroma.Tests", "Yeroma.Tests\Yeroma.Tests.csproj", "{92993FEB-CEFF-4B28-A0DE-C2B915117A4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yeroma.Blazor", "Yeroma.Blazor\Yeroma.Blazor.csproj", "{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0A540EA-8F46-4540-B724-11BA5A295F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A540EA-8F46-4540-B724-11BA5A295F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A540EA-8F46-4540-B724-11BA5A295F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A540EA-8F46-4540-B724-11BA5A295F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2C91DF-5E0C-4998-8D09-5D49D9C3FA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE131E5-8672-4FF8-BB20-81453281C1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE131E5-8672-4FF8-BB20-81453281C1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE131E5-8672-4FF8-BB20-81453281C1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE131E5-8672-4FF8-BB20-81453281C1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92993FEB-CEFF-4B28-A0DE-C2B915117A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92993FEB-CEFF-4B28-A0DE-C2B915117A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92993FEB-CEFF-4B28-A0DE-C2B915117A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92993FEB-CEFF-4B28-A0DE-C2B915117A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AD5089-7009-4E2C-A5AC-AA85032D4EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C6097B-9FD9-4999-90CA-E93B027F43E1}
+	EndGlobalSection
+EndGlobal

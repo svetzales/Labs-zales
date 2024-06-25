@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+VwkfysqlJszEqOAC02G3HOdOoiwAPH4q3S0g0F4ygz6uszDvjFDRvuFgaUpHHV52iKyrtG9B5/siSTL4I5NA==",
+  "success": false,
+  "projectFilePath": "E:\\УЧЕБА\\ВТ\\ЛБ7\\Makarova\\Makarova.UI\\Makarova.UI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"E:\\УЧЕБА\\ВТ\\ЛБ7\\Makarova\\Yeroma_Flowers.Domain\\Flowers.Domain.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "E:\\УЧЕБА\\ВТ\\ЛБ7\\Makarova\\Yeroma_Flowers.Domain\\Flowers.Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

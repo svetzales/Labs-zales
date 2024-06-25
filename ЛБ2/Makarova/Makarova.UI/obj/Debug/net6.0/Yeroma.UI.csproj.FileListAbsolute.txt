@@ -1,0 +1,221 @@
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\appsettings.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\libman.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.staticwebassets.runtime.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.exe
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.deps.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.runtimeconfig.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.pdb
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Humanizer.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.AssemblyReference.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.AssemblyInfoInputs.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.AssemblyInfo.cs
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.CoreCompileInputs.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.RazorAssemblyInfo.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.RazorAssemblyInfo.cs
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\bundle\Yeroma.UI.styles.css
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\projectbundle\Yeroma.UI.bundle.scp.css
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.CopyComplete
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\refint\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.pdb
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.genruntimeconfig.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ1\Yeroma\Yeroma.UI\obj\Debug\net6.0\ref\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\appsettings.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\libman.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.staticwebassets.runtime.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.exe
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.deps.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.runtimeconfig.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.pdb
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Humanizer.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.AssemblyReference.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.AssemblyInfoInputs.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.AssemblyInfo.cs
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.CoreCompileInputs.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.RazorAssemblyInfo.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.RazorAssemblyInfo.cs
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\bundle\Yeroma.UI.styles.css
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\projectbundle\Yeroma.UI.bundle.scp.css
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\refint\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.pdb
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.genruntimeconfig.cache
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\ref\Yeroma.UI.dll
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets\msbuild.Yeroma.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.Yeroma.UI.props
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Yeroma.UI.props
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Yeroma.UI.props
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ИИТ БГУиР\4 семестр\Веб\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.Up2Date
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\appsettings.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\libman.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.staticwebassets.runtime.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.exe
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.deps.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.runtimeconfig.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Yeroma.UI.pdb
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Humanizer.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.AssemblyReference.cache
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.AssemblyInfoInputs.cache
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.AssemblyInfo.cs
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.MvcApplicationPartsAssemblyInfo.cs
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.RazorAssemblyInfo.cache
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.RazorAssemblyInfo.cs
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\bundle\Yeroma.UI.styles.css
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\scopedcss\projectbundle\Yeroma.UI.bundle.scp.css
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.csproj.CopyComplete
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\refint\Yeroma.UI.dll
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.pdb
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\Yeroma.UI.genruntimeconfig.cache
+E:\УЧЕБА\ВТ\ЛБ2\Yeroma\Yeroma.UI\obj\Debug\net6.0\ref\Yeroma.UI.dll

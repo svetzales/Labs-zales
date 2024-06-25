@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04311\\yeroma\\yeroma.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04311\\yeroma\\yeroma.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04311\\yeroma\\yeroma.ui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04311\\yeroma\\yeroma.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04311\\yeroma\\yeroma.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04311\\yeroma\\yeroma.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|d:\\\u0438\u0438\u0442 \u0431\u0433\u0443\u0438\u0440\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0435\u0431\\\u043B\u04311\\yeroma\\yeroma.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A540EA-8F46-4540-B724-11BA5A295F97}|Yeroma.UI\\Yeroma.UI.csproj|solutionrelative:yeroma.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T11:51:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T11:51:26.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T11:51:03.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T11:49:48.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Yeroma.UI\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Yeroma.UI\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T11:29:02.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Yeroma.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAUwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T20:39:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Yeroma.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0418\u0418\u0422 \u0411\u0413\u0423\u0438\u0420\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0412\u0435\u0431\\\u041B\u04111\\Yeroma\\Yeroma.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Yeroma.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:15:34.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
